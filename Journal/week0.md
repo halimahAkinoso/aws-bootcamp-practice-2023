@@ -13,6 +13,8 @@ I did the following instruction to install AWS CLI.
 
 I installed the AWS CLI via the command in **command Promt**:
 
+I follow instruction on [AWS CLI install documentation page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
 ![Installing AWS CLI](assets/installing_window_cLI.png)
 
 ```
