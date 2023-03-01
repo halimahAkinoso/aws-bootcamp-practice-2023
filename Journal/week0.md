@@ -35,4 +35,7 @@ I  was able to create budget alert for 10$ because i cannot afford any spend.
 ### Recreate Logical Architectural design
 
 ![Logical Architecture Design](assets/Recreate_Architectural_diagram.png)
+
+[Lucid chart share link](https://lucid.app/lucidchart/455168fe-db0d-46d1-96f6-eae65544f194/edit?viewport_loc=-908%2C-411%2C4252%2C2044%2C0_0&invitationId=inv_81a0af4c-6578-4f7d-980d-42122ceac090)
+
 ## Homework Challenges
