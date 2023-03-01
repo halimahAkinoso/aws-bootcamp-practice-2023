@@ -28,5 +28,11 @@ I attempted to run the command by typing in 'aws'  but i recieved an errors.
 
 i was able to resolve the error by closing current command prompt and open it again.
 ![Proof of working CLI](assets/Proof_of_install_aws_cli.png)
+### Create a Budget
+I  was able to create budget alert for 10$ because i cannot afford any spend.
+![Budget Alert Created](assets/Budget_alert.png)
 
+### Recreate Logical Architectural design
+
+![Logical Architecture Design](assets/Recreate_Architectural_diagram.png)
 ## Homework Challenges
